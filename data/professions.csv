@@ -1,0 +1,443 @@
+Code,Titre de l'emploi,Titre féminin,Proximité physique,Exposition aux maladies et infections,Différence (positif = femme),Nombre de femmes,Nombre d'hommes,Nombre de femmes (Québec),Nombre d'hommes (Québec),Diff pts % Québec,Proportion de femmes,Nombre total (Québec),Catégorie
+1111,Vérificateurs et comptables,Vérificatrices et comptables,46,0.5,19.80049276,99680,66730,21990,13215,24.92543673,62.46271836,35205,jaune
+1112,Analystes financiers et analystes en placements,,47,0,-7.269694889,23630,27335,6295,6725,-3.302611367,48.34869432,13020,jaune
+1113,"Agents en valeurs, agents en placements et négociateurs en valeurs",,55,0,-27.62148338,4245,7485,1035,1360,-13.56993737,43.21503132,2395,jaune
+1114,Autres agents financiers,Autres Agentes financiers,49,2.5,-0.9309005798,46560,47435,11585,9165,11.6626506,55.8313253,20750,jaune
+1121,Professionnels en ressources humaines,Professionnelles en ressources humaines,44.8,2.8,49.38341602,52695,17855,12810,5090,43.12849162,71.56424581,17900,jaune
+1122,Professionnels des services-conseils en gestion aux entreprises,,51.25,4.5,-4.727465161,27005,29685,5990,6045,-0.4570004155,49.77149979,12035,jaune
+1123,"Professionnels en publicité, en marketing et en relations publiques","Professionnelles en publicité, en marketing et en relations publiques",45,0.5,36.88661267,57465,26495,13810,5480,43.18299637,71.59149819,19290,jaune
+1213,"Superviseurs de commis de bibliothèque, de correspondanciers et d'autres commis à l'information","Superviseures de commis de bibliothèque, de correspondanciers et d'autres commis à l'information",44,2,28.49162011,2300,1280,330,335,-0.7518796992,49.62406015,665,jaune
+1214,Superviseurs de services postaux et de messageries,Superviseures de services postaux et de messageries,56,17,24.95401594,5095,3060,1385,825,25.33936652,62.66968326,2210,jaune
+1215,"Superviseurs du personnel de coordination de la chaîne d'approvisionnement, du suivi et des horaires",,48,3,-34.84369894,14955,30950,4010,7360,-29.46350044,35.26824978,11370,jaune
+1221,Agents d'administration,Agentes d'administration,43,29,67.67804801,211660,40800,49055,11500,62.01800017,81.00900008,60555,jaune
+1222,Adjoints de direction,Adjointes de direction,39,8,82.75862069,40810,3850,10100,975,82.39277652,91.19638826,11075,jaune
+1223,Agents des ressources humaines et de recrutement,Agentes des ressources humaines et de recrutement,41,5,43.20905459,21510,8530,6130,2260,46.12634088,73.06317044,8390,jaune
+1224,Agents de gestion immobilière,Agentes de gestion immobilière,51,2,11.56850962,18565,14715,2115,1935,4.444444444,52.22222222,4050,jaune
+1225,Agents aux achats,Agentrs aux achats,37,0,2.855847688,22690,21430,5075,5260,-1.790033866,49.10498307,10335,jaune
+1226,Planificateurs de congrès et d'événements,Enseignantes au niveau collégial et autres instructrices en formation professionnelle,72,0,55.89571873,16295,4610,3150,1040,50.35799523,75.17899761,4190,jaune
+1227,Juges de paix et officiers de justice,Juges de paix et officières de justice,58,37,46.71201814,3235,1175,815,170,65.4822335,82.74111675,985,jaune
+1228,"Agents d'assurance-emploi, d'immigration, de services frontaliers et du revenu","Agentes d'assurance-emploi, d'immigration, de services frontaliers et du revenu",57,5,21.08585859,19180,12500,5580,3115,28.34962622,64.17481311,8695,jaune
+1241,Adjoints administratifs,Adjointes administratives,43,29,91.17423282,226140,10440,76005,2680,93.18802821,96.59401411,78685,jaune
+1242,Adjoints administratifs juridiques,Adjointes administratives juridiques,39,1,89.78424747,36505,1965,6035,205,93.42948718,96.71474359,6240,jaune
+1243,Adjoints administratifs médicaux,Adjointes administratives médicales,88,83,94.96691211,52295,1350,16990,350,95.96309112,97.98154556,17340,jaune
+1251,"Sténographes judiciaires, transcripteurs médicaux et personnel assimilé","Sténographes judiciaires, transcriptrices médicales et personnel assimilé",51.5,17,85.59696778,7345,570,1375,65,90.97222222,95.48611111,1440,jaune
+1252,Professionnels de la gestion de l'information sur la santé,Professionnelles de la gestion de l'information sur la santé,50,24,73.87127762,4525,680,1370,175,77.34627832,88.67313916,1545,jaune
+1253,Techniciens à la gestion des documents,Techniciennes à la gestion des documents,50.66666667,8.333333333,47.16713881,5195,1865,2395,840,48.06800618,74.03400309,3235,jaune
+1254,Agents de statistiques et professions connexes du soutien de la recherche,Agentes de statistiques et professions connexes du soutien de la recherche,50.33333333,6,20.93541203,2715,1775,295,195,20.40816327,60.20408163,490,jaune
+1311,Techniciens en comptabilité et teneurs de livres,Techniciennes en comptabilité et teneurs de livres,44,4,71.41418211,85090,14190,19070,3840,66.47752073,83.23876037,22910,jaune
+1312,Experts en sinistres et rédacteurs sinistres,Expertes en sinistres et rédactrices sinistres,43,3,22.74488102,16635,10470,2290,2370,-1.716738197,49.1416309,4660,jaune
+1313,Assureurs,Assureuses,52,1,38.57142857,10185,4515,1500,805,30.15184382,65.07592191,2305,jaune
+1314,Estimateurs et évaluateurs,,46,1.5,-33.69683751,3040,6130,1040,2300,-37.7245509,31.13772455,3340,jaune
+1315,"Courtiers en douanes, courtiers maritimes et autres courtiers","Courtières en douanes, courtiers maritimes et autres courtiers",54,1,20.87628866,2345,1535,450,490,-4.255319149,47.87234043,940,jaune
+1411,Employés de soutien de bureau généraux,Employées de soutien de bureau généraux,64,28,67.84337907,190540,36505,27765,7060,59.45441493,79.72720747,34825,jaune
+1414,Réceptionnistes,Réceptionnistes,52,31,86.14732725,142775,10625,27895,3750,76.29957339,88.1497867,31645,jaune
+1415,Commis des services du personnel,Commis des services du personnel,53,14,69.72704715,10260,1830,2160,470,64.25855513,82.12927757,2630,jaune
+1416,Commis des services judiciaires,Commis des services judiciaires,58.66666667,11,68.56649396,2440,455,275,90,50.68493151,75.34246575,365,jaune
+1422,Commis à la saisie de données,Commis à la saisie de données,57,11,54.30939227,27930,8270,4435,1560,47.95663053,73.97831526,5995,jaune
+1423,Opérateurs d'équipement d'éditique et personnel assimilé,Opératrices d'équipement d'éditique et personnel assimilé,45,2,-15.75342466,615,845,205,130,22.3880597,61.19402985,335,jaune
+1431,Commis à la comptabilité et personnel assimilé,Commis à la comptabilité et personnel assimilé,44,4,68.44433165,116155,21760,24645,4095,71.50313152,85.75156576,28740,jaune
+1432,Administrateurs de la paye,Administratrices de la paye,37,7,78.69507324,30195,3600,4610,580,77.64932563,88.82466281,5190,jaune
+1434,"Commis de banque, d'assurance et d'autres services financiers","Commis de banque, d'assurance et d'autres services financiers",49,0.5,46.7874447,17420,6315,3835,1225,51.58102767,75.79051383,5060,jaune
+1435,Agents de recouvrement,Agentes de recouvrement,57,5,36.66666667,9635,4465,2370,1240,31.30193906,65.65096953,3610,jaune
+1451,Commis et assistants dans les bibliothèques,Commis et assistantes dans les bibliothèques,73,34,67.59314015,14170,2740,2465,525,64.88294314,82.44147157,2990,jaune
+1452,Correspondanciers et commis aux publications et aux règlements,Correspondancières et commis aux publications et aux règlements,43,3,47.66962931,17030,6035,3020,1535,32.60153677,66.30076839,4555,jaune
+1454,Intervieweurs pour enquêtes et commis aux statistiques,Intervieweures pour enquêtes et commis aux statistiques,41,17,25.53402881,12635,7495,1905,1370,16.33587786,58.16793893,3275,jaune
+1511,Commis au courrier et aux services postaux et personnel assimilé,Commis au courrier et aux services postaux et personnel assimilé,63,5,13.56542617,16555,12600,2820,2660,2.919708029,51.45985401,5480,jaune
+1512,Facteurs,,57,8,-18.4421935,11675,16955,2700,4470,-24.68619247,37.65690377,7170,jaune
+1513,Messagers et distributeurs porte-à-porte,,45,73,-48.23842234,5840,16725,630,2115,-54.09836066,22.95081967,2745,jaune
+1521,Expéditeurs et réceptionnaires,,46,4,-53.9618171,25260,84475,6325,23045,-56.92883895,21.53558052,29370,jaune
+1523,Coordonnateurs de la logistique de la production,Coordonnatrices de la logistique de la production,52,3,1.702877275,12990,12555,2880,3330,-7.246376812,46.37681159,6210,jaune
+1524,Commis aux achats et au contrôle de l'inventaire,,51,10,-0.08421761833,14830,14855,3045,3095,-0.8143322476,49.59283388,6140,jaune
+1525,Répartiteurs,Répartitrices,60,13.66666667,3.542455381,19145,17835,3240,4600,-17.34693878,41.32653061,7840,jaune
+1526,Horairistes de trajets et d'équipages,Horairistes de trajets et d'équipages,58,9,6.957928803,3305,2875,765,670,6.620209059,53.31010453,1435,jaune
+2111,Physiciens et astronomes,,41,1.75,-61.55202822,545,2290,140,640,-64.1025641,17.94871795,780,jaune
+2112,Chimistes,,57,23,-14.27480916,5615,7485,1460,1845,-11.64901664,44.17549168,3305,jaune
+2113,Géoscientifiques et océanographes,,40,7,-45.90246355,2690,7255,230,570,-42.5,28.75,800,jaune
+2114,Météorologues et climatologues,,46,1,-43.39622642,300,760,85,160,-30.6122449,34.69387755,245,jaune
+2121,Biologistes et personnel scientifique assimilé,Biologistes et personnel scientifique assimilé,50.6,24.8,7.825228339,10920,9335,2460,1730,17.42243437,58.71121718,4190,jaune
+2122,Professionnels des sciences forestières,,41,3,-59.14552737,765,2980,225,905,-60.17699115,19.91150442,1130,jaune
+2123,"Agronomes, conseillers et spécialistes en agriculture",,56,15,-18.55583543,2425,3530,925,950,-1.333333333,49.33333333,1875,jaune
+2131,Ingénieurs civils,,46.5,4.5,-61.3686747,10020,41855,2220,8105,-56.99757869,21.50121065,10325,jaune
+2132,Ingénieurs mécaniciens,,56.5,2,-80.00399122,5010,45100,1085,10280,-80.90629125,9.546854377,11365,jaune
+2133,Ingénieurs électriciens et électroniciens,,49.5,2,-77.65932793,4820,38330,910,7615,-78.65102639,10.6744868,8525,jaune
+2134,Ingénieurs chimistes,,45.33333333,9.666666667,-43.90563565,3210,8235,540,1165,-36.6568915,31.67155425,1705,jaune
+2141,Ingénieurs d'industrie et de fabrication,,50.75,6.5,-57.35812761,3325,12270,910,2855,-51.66002656,24.16998672,3765,jaune
+2142,Ingénieurs métallurgistes et des matériaux,,45,2,-66.92307692,430,2170,90,450,-66.66666667,16.66666667,540,jaune
+2143,Ingénieurs miniers,,48,7,-70.59724349,480,2785,60,425,-75.25773196,12.37113402,485,jaune
+2144,Ingénieurs géologues,,48,7,-59.77859779,545,2165,105,350,-53.84615385,23.07692308,455,jaune
+2145,Ingénieurs de l'extraction et du raffinage du pétrole,,30,1,-64.45901639,1355,6270,20,55,-46.66666667,26.66666667,75,jaune
+2146,Ingénieurs en aérospatiale,,50,0,-73.93483709,780,5205,365,2475,-74.29577465,12.85211268,2840,jaune
+2147,Ingénieurs informaticiens (sauf ingénieurs et concepteurs en logiciel),,45,2,-77.43916307,2480,19505,625,5305,-78.92074199,10.53962901,5930,jaune
+2148,"Autres ingénieurs, n.c.a.",,48.92857143,7.285714286,-58.46153846,945,3605,265,770,-48.79227053,25.60386473,1035,jaune
+2151,Architectes,,53,2,-26.35914333,4470,7670,1485,1740,-7.906976744,46.04651163,3225,jaune
+2152,Architectes paysagistes,Architectes paysagistes,47,0,1.618122977,785,760,220,155,17.33333333,58.66666667,375,jaune
+2153,Urbanistes et planificateurs de l'utilisation des sols,,50,3,-7.915567282,5235,6135,670,915,-15.45741325,42.27129338,1585,jaune
+2154,Arpenteurs-géomètres,,44,7,-82.88288288,570,6090,170,1140,-74.04580153,12.97709924,1310,jaune
+2161,"Mathématiciens, statisticiens et actuaires",,36,1.5,-7.71123872,5625,6565,1465,2100,-17.81206171,41.09396914,3565,jaune
+2171,Analystes et consultants en informatique,,46.5,7.125,-42.17113846,41005,100810,7285,19220,-45.02923977,27.48538012,26505,jaune
+2172,Analystes de bases de données et administrateurs de données,,47.66666667,1.666666667,-33.87096774,6765,13695,1345,3235,-41.26637555,29.36681223,4580,jaune
+2173,Ingénieurs et concepteurs en logiciel,,47.5,0,-67.75124931,7260,37765,835,5475,-73.5340729,13.23296355,6310,jaune
+2174,Programmeurs et développeurs en médias interactifs,,39,0,-65.47255294,16385,78525,3530,22400,-72.77284998,13.61357501,25930,jaune
+2175,Concepteurs et développeurs Web,,42.5,0.5,-38.0952381,6045,13485,1430,3410,-40.90909091,29.54545455,4840,jaune
+2211,Technologues et techniciens en chimie,Technologues et Techniciennes en chimie,58,8,1.479289941,12005,11655,3040,2505,9.64833183,54.82416592,5545,jaune
+2212,Technologues et techniciens en géologie et en minéralogie,,44,2,-49.69400245,2055,6115,270,1035,-58.62068966,20.68965517,1305,jaune
+2221,Technologues et techniciens en biologie,Technologues et Techniciennes en biologie,51,39,3.666499247,5160,4795,1175,1005,7.798165138,53.89908257,2180,jaune
+2222,Inspecteurs des produits agricoles et de la pêche,Inspectrice des produits agricoles et de la pêche,68,18,-6.681766704,2060,2355,510,460,5.154639175,52.57731959,970,jaune
+2223,Technologues et techniciens en sciences forestières,,61.33333333,18,-58.69726129,1395,5360,315,1175,-57.71812081,21.1409396,1490,jaune
+2224,Techniciens du milieu naturel et de la pêche,,57.2,10.6,-50.84915085,1230,3775,135,545,-60.29411765,19.85294118,680,jaune
+2225,Techniciens et spécialistes de l'aménagement paysager et de l'horticulture,Techniciennes et spécialistes de l'aménagement paysager et de l'horticulture,76,9,-30.89457931,5195,9840,2085,1815,6.923076923,53.46153846,3900,jaune
+2231,Technologues et techniciens en génie civil,,57,22,-65.96311931,3830,18675,1215,5605,-64.36950147,17.81524927,6820,jaune
+2232,Technologues et techniciens en génie mécanique,,58,1.5,-82.36472946,1760,18200,475,4940,-82.45614035,8.771929825,5415,jaune
+2233,Technologues et techniciens en génie industriel et en génie de fabrication,,52.5,5,-58.5879561,3490,13365,980,2995,-50.6918239,24.65408805,3975,jaune
+2234,Estimateurs en construction,,44,2,-68.65556978,3060,16465,830,3120,-57.97468354,21.01265823,3950,jaune
+2241,Technologues et techniciens en génie électronique et électrique,,56,5,-78.91507118,4295,36445,930,9815,-82.68962308,8.65518846,10745,jaune
+2242,Électroniciens d'entretien (biens domestiques et commerciaux),,63.5,11,-84.76454294,3300,40020,410,5815,-86.82730924,6.586345382,6225,jaune
+2243,Techniciens et mécaniciens d'instruments industriels,,72,15,-89.07469342,490,8480,70,1830,-92.63157895,3.684210526,1900,jaune
+2244,"Mécaniciens, techniciens et contrôleurs d'avionique et d'instruments et d'appareillages électriques d'aéronefs",,57.33333333,2.333333333,-78.81567973,635,5360,195,1295,-73.82550336,13.08724832,1490,jaune
+2251,Technologues et techniciens en architecture,,48,3.5,-25.8803801,3315,5630,1195,1535,-12.45421245,43.77289377,2730,jaune
+2252,Designers industriels,,49,0,-37.97814208,2270,5050,850,1805,-35.96986817,32.01506591,2655,jaune
+2253,Technologues et techniciens en dessin,,48.4,1.8,-39.3867458,7660,17615,2495,4520,-28.86671418,35.56664291,7015,jaune
+2254,Technologues et techniciens en arpentage,,50,11,-64.42105263,845,3905,470,1435,-50.65616798,24.67191601,1905,jaune
+2255,Personnel technique en géomatique et en météorologie,,48.75,2.25,-29.72972973,2925,5400,500,785,-22.17898833,38.91050584,1285,jaune
+2261,Vérificateurs et essayeurs des essais non destructifs,,62.5,4,-77.48240813,720,5675,135,555,-60.86956522,19.56521739,690,jaune
+2262,Inspecteurs d'ingénierie et officiers de réglementation,,65,4,-52.89499509,1200,3895,325,910,-47.36842105,26.31578947,1235,jaune
+2263,"Inspecteurs de la santé publique, de l'environnement et de l'hygiène et de la sécurité au travail",,57,17,-19.47204508,13575,20140,2140,2560,-8.936170213,45.53191489,4700,jaune
+2264,Inspecteurs en construction,,64,11,-62.91883842,2490,10940,635,1685,-45.25862069,27.37068966,2320,jaune
+2271,"Pilotes, navigateurs et instructeurs de pilotage du transport aérien",,83,28,-85.26119403,1185,14895,210,2435,-84.12098299,7.939508507,2645,jaune
+2272,Contrôleurs aériens et personnel assimilé,,82,7,-49.01531729,1165,3405,220,505,-39.31034483,30.34482759,725,jaune
+2273,Officiers de pont du transport par voies navigables,,71.33333333,18.66666667,-78.97897898,525,4470,70,535,-76.85950413,11.57024793,605,jaune
+2274,Officiers mécaniciens du transport par voies navigables,,72,16,-94.39252336,60,2080,10,375,-94.80519481,2.597402597,385,jaune
+2275,Contrôleurs de la circulation ferroviaire et régulateurs de la circulation maritime,,63,15,-58.6440678,305,1170,35,150,-62.16216216,18.91891892,185,jaune
+2281,Techniciens de réseau informatique,,47.5,1.5,-62.08368915,12210,52195,2350,15255,-73.30303891,13.34848055,17605,jaune
+2282,Agents de soutien aux utilisateurs,,64,8,-52.33345208,10035,32070,2140,7485,-55.53246753,22.23376623,9625,jaune
+2283,Évaluateurs de systèmes informatiques,,47,0,-18.41541756,3810,5530,660,1500,-38.88888889,30.55555556,2160,jaune
+3011,Coordonnateurs et superviseurs des soins infirmiers,Coordonnatrices et superviseures des soins infirmiers,76,77,80.92832333,14325,1510,3285,585,69.76744186,84.88372093,3870,jaune
+3012,Infirmiers autorisés et infirmiers psychiatriques autorisés,"Infirmières autorisées et\ninfirmières psychiatriques autorisés",85.5,87.5,83.48623853,264000,23760,55500,6670,78.54270548,89.27135274,62170,jaune
+3111,Médecins spécialistes,,84,86.28571429,-11.84677229,9320,11825,1970,2250,-6.63507109,46.68246445,4220,jaune
+3112,Omnipraticiens et médecins en médecine familiale,Omnipraticiennes et médecins en médecine familiale,91,100,-0.4929706043,13625,13760,3405,2460,16.11253197,58.05626598,5865,jaune
+3113,Dentistes,Dentistes,99,95,-11.09387122,2865,3580,610,525,7.488986784,53.74449339,1135,jaune
+3114,Vétérinaires,Vétérinaires,91,89,36.85800604,4530,2090,1130,395,48.19672131,74.09836066,1525,jaune
+3121,Optométristes,Optométristes,90,75,32.71028037,710,360,100,40,42.85714286,71.42857143,140,jaune
+3122,Chiropraticiens,Chiropraticiens,96,53,-11.11111111,560,700,55,40,15.78947368,57.89473684,95,jaune
+3124,Praticiens reliés en soins de santé primaire,Praticiennes reliés en soins de santé primaire,94,73,73.12252964,5475,850,500,50,81.81818182,90.90909091,550,jaune
+3125,Autres professionnels en diagnostic et en traitement de la santé,Autres professionnelles en diagnostic et en traitement de la santé,91.33333333,84.33333333,41.69741697,960,395,355,95,57.77777778,78.88888889,450,jaune
+3131,Pharmaciens,Pharmaciennes,72,76,33.40771438,20925,10445,5045,1720,49.15003695,74.57501848,6765,jaune
+3132,Diététistes et nutritionnistes,Diététistes et nutritionnistes,69,79,90.97154073,9730,460,2240,80,93.10344828,96.55172414,2320,jaune
+3141,Audiologistes et orthophonistes,Audiologistes et orthophonistes,73,60,88.77605559,8830,525,2235,120,89.8089172,94.9044586,2355,jaune
+3142,Physiothérapeutes,Physiothérapeutes,100,67,57.32484076,14820,4020,4405,895,66.22641509,83.11320755,5300,jaune
+3143,Ergothérapeutes,Ergothérapeutes,90.5,63.5,84.85069192,12690,1040,3890,270,87.01923077,93.50961538,4160,jaune
+3144,Autres professionnels en thérapie et en diagnostic,Autres professionnelles en thérapie et en diagnostic,82.75,56.25,51.14155251,6620,2140,975,610,23.02839117,61.51419558,1585,jaune
+3211,Technologues de laboratoires médicaux,Technologues de laboratoires médicaux,58.33333333,79.33333333,60.64096144,16040,3930,3445,755,64.04761905,82.02380952,4200,jaune
+3212,Techniciens de laboratoire médical et assistants en pathologie,Techniciennes de laboratoire médical et assistants en pathologie,70.5,82.5,65.33274375,18695,3920,3280,1080,50.4587156,75.2293578,4360,jaune
+3213,Technologues en santé animale et techniciens vétérinaires,Technologues en santé animale et techniciennes vétérinaires,92,67,84.37908497,14105,1195,2965,265,83.59133127,91.79566563,3230,jaune
+3214,"Inhalothérapeutes, perfusionnistes cardiovasculaires et technologues cardiopulmonaires","Inhalothérapeutes, perfusionnistes cardiovasculaires et technologues cardiopulmonaires",93,98,51.40687807,8475,2720,3335,565,71.02564103,85.51282051,3900,jaune
+3215,Technologues en radiation médicale,Technologues en radiation médicale,89,92,55.21472393,15180,4380,4095,985,61.22047244,80.61023622,5080,jaune
+3216,Technologues en échographie,Technologues en échographie,95,87,70.703125,4370,750,175,25,75,87.5,200,jaune
+3217,"Technologues en cardiologie et technologues en électrophysiologie diagnostique, n.c.a.","Technologues en cardiologie et technologues en électrophysiologie diagnostique, n.c.a.",97,74,65.30973451,2335,490,515,110,64.8,82.4,625,jaune
+3219,Autres technologues et techniciens des sciences de la santé (sauf soins dentaires),Autres technologues et techniciennes des sciences de la santé (sauf soins dentaires),79.5,63.5,72.45581962,42450,6780,14235,1815,77.38317757,88.69158879,16050,jaune
+3221,Denturologistes,Denturologistes,99,95,-3.546099291,340,365,120,60,33.33333333,66.66666667,180,jaune
+3222,Hygiénistes et thérapeutes dentaires,Hygiénistes et thérapeutes dentaires,100,100,94.85770363,24820,655,5760,145,95.08890771,97.54445385,5905,jaune
+3223,Technologues et techniciens dentaires et auxiliaires dans les laboratoires dentaires,Technologues et Techniciennes dentaires et auxiliaires dans les laboratoires dentaires,53,72,-3.311258278,2190,2340,570,395,18.13471503,59.06735751,965,jaune
+3231,Opticiens d'ordonnances,Opticiennes d'ordonnances,83,40,45.76271186,5590,2080,1420,350,60.4519774,80.2259887,1770,jaune
+3232,Praticiens des médecines douces,Praticiennes des médecines douces,89.5,88,47.00460829,1595,575,150,50,50,75,200,jaune
+3233,Infirmiers auxiliaires,Infirmières auxiliaires,90,94,81.23305266,63495,6575,17935,1945,80.43259557,90.21629779,19880,jaune
+3234,Personnel ambulancier et paramédical,,97,89,-27.8203724,9885,17505,1170,3605,-50.9947644,24.5026178,4775,jaune
+3236,Massothérapeutes,Massothérapeutes,89,35,61.49825784,9270,2210,1655,405,60.67961165,80.33980583,2060,jaune
+3237,Autre personnel technique en thérapie et en diagnostic,Autre personnel technique en thérapie et en diagnostic,86.5,65.5,67.75793651,8455,1625,1235,250,66.32996633,83.16498316,1485,jaune
+3411,Assistants dentaires,Assistantes dentaires,99,96,97.30579255,32955,450,5310,105,96.12188366,98.06094183,5415,jaune
+3413,"Aides-infirmiers, aides-soignants et préposés aux bénéficiaires","Aides-infirmières, aides-soignantes\net préposées aux bénéficiaires",87.83333333,82.16666667,73.60746164,216380,32895,52820,9565,69.33557746,84.66778873,62385,jaune
+3414,Autre personnel de soutien des services de santé,Autre personnel de soutien des services de santé,82,77.33333333,62.67450404,27675,6350,5640,1560,56.66666667,78.33333333,7200,jaune
+4011,Professeurs et chargés de cours au niveau universitaire,,48.20588235,13.94117647,-12.58761264,30555,39355,6330,8585,-15.11900771,42.44049614,14915,jaune
+4012,Assistants d'enseignement et de recherche au niveau postsecondaire,Assistantes d'enseignement et de recherche au niveau postsecondaire,54,3,8.847530422,38015,31835,7695,6525,8.227848101,54.11392405,14220,jaune
+4021,Enseignants au niveau collégial et autres instructeurs en formation professionnelle,Enseignantes au niveau collégial et autres instructrices en formation professionnelle,49,14.02857143,8.339682354,46215,39100,15475,12975,8.787346221,54.39367311,28450,jaune
+4031,Enseignants au niveau secondaire,Enseignantes au niveau secondaire,70,17,18.0289713,96350,66915,26685,17215,21.57175399,60.78587699,43900,jaune
+4032,Enseignants aux niveaux primaire et préscolaire,Enseignantes aux niveaux\nprimaire et préscolaire,79,46,68.56042202,242845,45295,51090,7205,75.28089888,87.64044944,58295,jaune
+4033,Conseillers en information scolaire,Conseillères en information scolaire,64,36,57.01614737,17260,4725,4460,980,63.97058824,81.98529412,5440,jaune
+4111,Juges,,52,34,-25.60386473,1155,1950,475,585,-10.37735849,44.81132075,1060,jaune
+4112,Avocats (partout au Canada) et notaires (au Québec),Avocates (partout au Canada) et notaires (au Québec),34,14,6.060606061,29575,26195,7965,4930,23.53625436,61.76812718,12895,jaune
+4151,Psychologues,Psychologues,55.2,32.6,58.62321494,10830,2825,3400,890,58.50815851,79.25407925,4290,jaune
+4152,Travailleurs sociaux,Travailleuses sociaux,60.66666667,54.66666667,70.37295834,48765,8480,11420,1645,74.81821661,87.4091083,13065,jaune
+4153,"Thérapeutes conjugaux, thérapeutes familiaux et autres conseillers assimilés","Thérapeutes conjugaux, thérapeutes familiaux et autres conseillères assimilées",53.66666667,35,58.76242096,17575,4565,4660,985,65.10186005,82.55093003,5645,jaune
+4154,Personnel professionnel relié à la religion,,55,40,-52.00142959,6715,21265,255,1770,-74.81481481,12.59259259,2025,jaune
+4155,Agents de probation et de libération conditionnelle et personnel assimilé,Agentes de probation et de libération conditionnelle et personnel assimilé,57,52,39.77758768,4085,1760,715,200,56.28415301,78.1420765,915,jaune
+4156,Conseillers en emploi,Conseillères en emploi,64,36,53.98564413,10190,3045,2025,555,56.97674419,78.48837209,2580,jaune
+4161,"Recherchistes, experts-conseils et agents de programmes, en sciences naturelles et appliquées","Recherchistes, expertes-conseils et Agentes de programmes, en sciences naturelles et appliquées",48.75,4.25,-3.258569615,11430,12200,2455,2445,0.2040816327,50.10204082,4900,jaune
+4162,"Économistes, recherchistes et analystes des politiques économiques",,35,4.333333333,-9.545454545,7960,9640,1640,2045,-10.99050204,44.50474898,3685,jaune
+4163,"Agents de développement économique, recherchistes et experts-conseils en marketing","Agentes de développement économique, recherchistes et expertes-conseils en marketing",36,0,5.105377907,28925,26115,5390,3725,18.26659353,59.13329676,9115,jaune
+4164,"Recherchistes, experts-conseils et agents de programmes en politiques sociales","Recherchistes, expertes-conseils et Agentes de programmes en politiques sociales",44,1.5,35.09933775,20910,10045,4655,2575,28.76901798,64.38450899,7230,jaune
+4165,"Recherchistes, experts-conseils et agents de programmes en politiques de la santé","Recherchistes, expertes-conseils et Agentes de programmes en politiques de la santé",65.5,41.5,50.10653991,22895,7610,3880,1560,42.64705882,71.32352941,5440,jaune
+4166,"Recherchistes, experts-conseils et agents de programmes en politiques de l'enseignement","Recherchistes, expertes-conseils et Agentes de programmes en politiques de l'enseignement",55,16,47.34080611,15445,5520,3725,1310,47.96425025,73.98212512,5035,jaune
+4167,"Recherchistes, experts-conseils et agents de programme en sports, en loisirs et en conditionnement physique","Recherchistes, expertes-conseils et Agentes de programme en sports, en loisirs et en conditionnement physique",47,0,34.16708354,6705,3290,1185,775,20.91836735,60.45918367,1960,jaune
+4168,Agents de programmes propres au gouvernement,Agentes de programmes propres au gouvernement,56,30,12.18905473,9020,7060,1975,1660,8.665749656,54.33287483,3635,jaune
+4211,Techniciens juridiques et personnel assimilé,Techniciennes juridiques et personnel assimilé,39,1,77.33560735,23395,2990,3900,510,76.8707483,88.43537415,4410,jaune
+4212,Travailleurs des services sociaux et communautaires,Travailleuses des services sociaux et communautaires,56,33.33333333,55.37260167,109930,31575,19945,6500,50.84136888,75.42068444,26445,jaune
+4214,Éducateurs et aides-éducateurs de la petite enfance,Éducatrices et aides-éducatrices\nde la petite enfance,76,52,92.59990706,165790,6370,61940,2250,92.98956224,96.49478112,64190,jaune
+4215,Instructeurs pour personnes ayant une déficience,Instructrices pour personnes ayant une déficience,83.5,46.5,73.04792021,17785,2770,12105,1920,72.62032086,86.31016043,14025,jaune
+4216,Autres instructeurs,Autres instructrices,77.66666667,10.66666667,8.608949416,11165,9395,1460,1640,-5.806451613,47.09677419,3100,jaune
+4311,Policiers (sauf cadres supérieurs),,75,59,-53.01189076,17980,58550,4570,12665,-46.9683783,26.51581085,17235,jaune
+4312,Pompiers,,81.5,60.5,-91.23821113,1440,31430,180,5955,-94.13202934,2.93398533,6135,jaune
+4411,Gardiens d'enfants en milieu familial,Gardiennes d'enfants en milieu familial,75,40,91.12109173,55320,2570,5300,245,91.1632101,95.58160505,5545,jaune
+4412,"Aides familiaux résidents, aides de maintien à domicile et personnel assimilé","Aides familiaux résidents, aides de maintien à domicile et personnel assimilé",86,62,78.50229792,82535,9940,12770,1580,77.97909408,88.98954704,14350,jaune
+4413,Aides-enseignants aux niveaux primaire et secondaire,Aides-enseignantes aux niveaux primaire et secondaire,88,36,80.27105989,111065,12155,15860,2545,72.34447161,86.17223581,18405,jaune
+4421,Shérifs et huissiers de justice,,79.5,58.5,-53.5188216,710,2345,175,440,-43.08943089,28.45528455,615,jaune
+4422,Agents de services correctionnels,,81,72,-32.14057508,7965,15510,1630,2740,-25.40045767,37.29977117,4370,jaune
+4423,"Agents d'application de règlements municipaux et autres agents de réglementation, n.c.a.",,53.25,41.25,-28.48605578,3590,6450,695,1270,-29.26208651,35.36895674,1965,jaune
+5111,Bibliothécaires,Bibliothécaires,52,29,62.50687191,7390,1705,1075,415,44.29530201,72.14765101,1490,jaune
+5112,Restaurateurs et conservateurs,Restauratrices et conservatrices,49.5,2.5,40.74074074,1235,520,155,70,37.77777778,68.88888889,225,jaune
+5113,Archivistes,Archivistes,44,2,38.21989529,1320,590,555,225,42.30769231,71.15384615,780,jaune
+5121,"Auteurs, rédacteurs et écrivains","Autrices, rédactrices et écrivaines",31.5,3.5,10.59259259,7465,6035,1550,1145,15.02782931,57.51391466,2695,jaune
+5122,"Réviseurs, rédacteurs-réviseurs et chefs du service des nouvelles","Réviseures, rédactrices-réviseurse et cheffes du service des nouvelles",54,0,18.73174802,7115,4870,2165,1050,34.68118196,67.34059098,3215,jaune
+5123,Journalistes,,55,9,-4.273504274,4760,5185,1390,1525,-4.631217839,47.68439108,2915,jaune
+5125,"Traducteurs, terminologues et interprètes","Traductrices, terminologues et interprètes",66,56,43.70442392,7390,2895,3290,1315,42.88816504,71.44408252,4605,jaune
+5131,"Producteurs, réalisateurs, chorégraphes et personnel assimilé",,68.2,2.2,-20.88552287,6790,10375,1975,2665,-14.87068966,42.56465517,4640,jaune
+5132,"Chefs d'orchestre, compositeurs et arrangeurs",,35.66666667,5.666666667,-7.772020725,890,1040,100,255,-43.66197183,28.16901408,355,jaune
+5133,Musiciens et chanteurs,,88,18,0.07262164125,6890,6880,1165,1375,-8.267716535,45.86614173,2540,jaune
+5134,Danseurs,Danseuses,98,21,75.2293578,5730,810,1060,150,75.20661157,87.60330579,1210,jaune
+5135,Acteurs et comédiens,Actrices et comédiennes,95,5,-3.867403315,3045,3290,455,410,5.202312139,52.60115607,865,jaune
+5136,"Peintres, sculpteurs et autres artistes des arts visuels",,9,0,-4.335260116,3310,3610,635,875,-15.89403974,42.05298013,1510,jaune
+5211,Techniciens dans les bibliothèques et les services d'archives publiques,Techniciennes dans les bibliothèques et les services d'archives publiques,62,16,77.14285714,8370,1080,1485,275,68.75,84.375,1760,jaune
+5212,Personnel technique des musées et des galeries d'art,Personnel technique des musées et des galeries d'art,55,0,22.23059533,4055,2580,615,430,17.70334928,58.85167464,1045,jaune
+5221,Photographes,Photographes,68,4,8.524289643,2960,2495,480,360,14.28571429,57.14285714,840,jaune
+5222,Cadreurs de films et cadreurs vidéo,,68,4,-76.21776504,415,3075,75,695,-80.51948052,9.74025974,770,jaune
+5223,Techniciens en graphisme,,53.5,2,-25.86090479,2745,4660,1930,2625,-15.25795829,42.37102086,4555,jaune
+5224,Techniciens en radiotélédiffusion,,51,3,-62.96296296,375,1650,50,245,-66.10169492,16.94915254,295,jaune
+5225,Techniciens en enregistrement audio et vidéo,,64.5,6,-66.78851175,1590,7985,495,2285,-64.38848921,17.8057554,2780,jaune
+5226,"Autre personnel technique et personnel de coordination du cinéma, de la radiotélédiffusion et des arts de la scène",,81,14,-12.71020727,5580,7205,1180,1915,-23.74798061,38.12600969,3095,jaune
+5227,"Personnel de soutien du cinéma, de la radiotélédiffusion, de la photographie et des arts de la scène",,64.5,7.25,-36.53534808,2940,6325,520,940,-28.76712329,35.61643836,1460,jaune
+5231,Annonceurs et autres communicateurs,,54,10,-26.63316583,1825,3150,405,725,-28.31858407,35.84070796,1130,jaune
+5232,"Autres artistes de spectacle, n.c.a.","Autres artistes de spectacle, n.c.a.",64,1,1.040118871,1700,1665,310,295,2.479338843,51.23966942,605,jaune
+5241,Designers graphiques et illustrateurs,,43.5,0,-0.1157139551,21580,21630,4560,4885,-3.44097406,48.27951297,9445,jaune
+5242,Designers d'intérieur et décorateurs d'intérieur,Designers d'intérieur et décoratrices d'intérieur,53,7,61.63849155,12430,2950,3205,625,67.36292428,83.68146214,3830,jaune
+5243,"Ensembliers de théâtre, dessinateurs de mode, concepteurs d'expositions et autres concepteurs artistiques","Ensemblières de théâtre, dessinatrices de mode, conceptrices d'expositions et autres conceptrices artistiques",50.5,0.5,34.04907975,6555,3225,2045,1290,22.63868066,61.31934033,3335,jaune
+5244,Artisans,Artisanes,47,0.6666666667,24.04006678,3715,2275,525,405,12.90322581,56.4516129,930,jaune
+5245,Patronniers de produits textiles et d'articles en cuir et en fourrure,Patronnières de produits textiles et d'articles en cuir et en fourrure,49,1,48.75,595,205,440,70,72.54901961,86.2745098,510,jaune
+5251,Athlètes,,59,6,-72.07207207,310,1910,30,315,-82.60869565,8.695652174,345,jaune
+5252,Entraîneurs,,74,9,-22.05778717,2765,4330,630,1085,-26.53061224,36.73469388,1715,jaune
+5253,Arbitres et officiels de sports,,71,11,-57.45422842,1220,4515,185,630,-54.60122699,22.6993865,815,jaune
+5254,"Animateurs et responsables de programmes de sports, de loisirs et de conditionnement physique","Animatrices et responsables de programmes de sports, de loisirs et de conditionnement physique",69.5,30,20.62878112,60815,40015,11785,7230,23.95477255,61.97738627,19015,jaune
+6211,Superviseurs des ventes - commerce de détail,Superviseures des ventes - commerce de détail,66,10,25.14823306,39575,23670,8385,4995,25.33632287,62.66816143,13380,jaune
+6221,Spécialistes des ventes techniques - commerce de gros,,46.5,6,-44.07772342,20290,52275,3730,8305,-38.01412547,30.99293727,12035,jaune
+6222,Acheteurs des commerces de détail et de gros,Acheteuses des commerces de détail et de gros,58,10,9.496067579,18795,15535,2805,3270,-7.654320988,46.17283951,6075,jaune
+6231,Agents et courtiers d'assurance,Agentes et courtières d'assurance,61,10,25.64225307,39370,23300,8690,4790,28.93175074,64.46587537,13480,jaune
+6232,Agents et vendeurs en immobilier,,71,4,-10.14102361,28355,34755,2990,3590,-9.118541033,45.44072948,6580,jaune
+6235,Représentants des ventes financières,Représentantes des ventes financières,47,7,28.26269057,38280,21410,5465,3275,25.05720824,62.52860412,8740,jaune
+6311,Superviseurs des services alimentaires,Superviseures des services alimentaires,95,26,32.50811201,27565,14040,3980,2305,26.65075577,63.32537788,6285,jaune
+6312,Gouvernants principaux,Gouvernantes principales,51,47,71.57894737,3260,540,490,90,68.96551724,84.48275862,580,jaune
+6313,"Superviseurs des services d'hébergement, de voyages, de tourisme et des services connexes","Superviseures des services d'hébergement, de voyages, de tourisme et des services connexes",53,4,9.664292981,2695,2220,425,365,7.594936709,53.79746835,790,jaune
+6314,Superviseurs des services d'information et des services à la clientèle,Superviseures des services d'information et des services à la clientèle,87,29,26.58336924,7345,4260,1860,1305,17.53554502,58.76777251,3165,jaune
+6315,Surveillants des services de nettoyage,,51,47,-28.5152409,3635,6535,525,1425,-46.15384615,26.92307692,1950,jaune
+6316,Surveillants des autres services,,87,29,-33.05497564,4810,9560,810,1765,-37.08737864,31.45631068,2575,jaune
+6321,Chefs,,81,15,-51.20348166,13735,42560,2185,5770,-45.06599623,27.46700189,7955,jaune
+6322,Cuisiniers,,70,43,-18.06024646,89765,129335,24135,32840,-15.27863098,42.36068451,56975,jaune
+6331,"Bouchers, coupeurs de viande et poissonniers - commerce de gros et de détail",,77,3,-69.88605534,2775,15655,1135,6165,-68.90410959,15.54794521,7300,jaune
+6332,Boulangers-pâtissiers,Boulangères-pâtissières,55,7,19.63083063,23980,16110,4255,3300,12.64063534,56.32031767,7555,jaune
+6341,Coiffeurs et barbiers,Coiffeuses et barbières,92,32,72.25950783,48125,7750,8850,1475,71.42857143,85.71428571,10325,jaune
+6342,"Tailleurs, couturiers, fourreurs et modistes","Tailleuses, couturières, fourreuses et modistes",63,12,74.17279412,9475,1405,2840,465,71.86081694,85.93040847,3305,jaune
+6343,Cordonniers et fabricants de chaussures,,55,3,-36.98630137,230,500,130,220,-25.71428571,37.14285714,350,jaune
+6344,"Bijoutiers, réparateurs de bijoux, horlogers-rhabilleurs et personnel assimilé",,54.33333333,0,-11.54598826,1130,1425,250,390,-21.875,39.0625,640,jaune
+6345,Tapissiers-garnisseurs,,62,2,-52.2906793,755,2410,440,725,-24.46351931,37.76824034,1165,jaune
+6346,Directeurs de funérailles et embaumeurs,,68,81,-9.024390244,1865,2235,305,465,-20.77922078,39.61038961,770,jaune
+6411,Représentants des ventes et des comptes - commerce de gros (non-technique),,52,3,-27.22940431,35885,62740,8370,14310,-26.19047619,36.9047619,22680,jaune
+6421,Vendeurs - commerce de détail,Vendeuses - commerce de détail,68.5,14.5,15.52252132,368745,269650,72555,57695,11.40882917,55.70441459,130250,jaune
+6511,Maîtres d'hôtel et hôtes,Maîtresses d'hôtel et hôtes,79,16,79.68832078,25655,2900,4135,635,73.37526205,86.68763103,4770,jaune
+6512,Barmans/barmaids,Barmaids,79,4,19.95104039,24500,16350,5970,2590,39.48598131,69.74299065,8560,jaune
+6513,Serveurs d'aliments et de boissons,Serveuses d'aliments et de boissons,78,16,57.53914002,178610,48140,39035,13185,49.50210647,74.75105324,52220,jaune
+6521,Conseillers en voyages,Conseillères en voyages,55,0,60.90805902,17720,4305,3880,945,60.82901554,80.41450777,4825,jaune
+6522,Commissaires et agents de bord,Commissaires et Agentes de bord,96,77,57.84695201,12170,3250,2465,765,52.63157895,76.31578947,3230,jaune
+6523,Agents à la billetterie et aux services aériens,Agentes à la billetterie et aux services aériens,81,12,33.83402178,8910,4405,1315,785,25.23809524,62.61904762,2100,jaune
+6524,"Agents à la billetterie, représentants du service en matière de fret et personnel assimilé dans le transport routier et maritime","Agentes à la billetterie, représentantes du service en matière de fret et personnel assimilé dans le transport routier et maritime",73,8,24.10423453,1905,1165,420,335,11.25827815,55.62913907,755,jaune
+6525,Réceptionnistes d'hôtel,Réceptionnistes d'hôtel,64,3,30.47191011,14515,7735,2630,1635,23.32942556,61.66471278,4265,jaune
+6531,Guides touristiques et guides itinérants,Guides touristiques et guides itinérants,72,19,2.709677419,1990,1885,490,500,-1.01010101,49.49494949,990,jaune
+6532,Guides d'activités récréatives et sportives de plein air,,72,37,-60.67073171,645,2635,75,240,-52.38095238,23.80952381,315,jaune
+6533,Personnel préposé au jeu dans les casinos,,78.75,28,-0.3756574005,6630,6680,545,1045,-31.44654088,34.27672956,1590,jaune
+6541,Agents de sécurité et personnel assimilé des services de sécurité,,63.75,15.25,-52.13733322,28160,89510,6495,20370,-51.64712451,24.17643774,26865,jaune
+6551,Représentants au service à la clientèle - institutions financières,Représentantes au service à la clientèle - institutions financières,58,5,56.6848792,59505,16450,13870,3560,59.15088927,79.57544464,17430,jaune
+6552,Autres préposés aux services d'information et aux services à la clientèle,Autres préposérs aux services d'information et aux services à la clientèle,58,5,27.8063027,135660,76630,27780,18600,19.79301423,59.89650712,46380,jaune
+6561,"Conseillers imagistes, conseillers mondains et autres conseillers en soins personnalisés","Conseillères imagistes, Conseillères mondains et autres Conseillères en soins personnalisés",89,19.5,70.62937063,1220,210,310,75,61.03896104,80.51948052,385,jaune
+6562,"Esthéticiens, électrolystes et personnel assimilé","Esthéticiennes, électrolystes et personnel assimilé",91.75,25.5,85.56079665,35405,2755,7925,645,84.94749125,92.47374562,8570,jaune
+6563,Soigneurs d'animaux et travailleurs en soins des animaux,Soigneures d'animaux et travailleuses en soins des animaux,64,41,64.09537167,11700,2560,1545,690,38.25503356,69.12751678,2235,jaune
+6564,Autre personnel de services personnalisés,Autre personnel de services personnalisés,87,29,61.21212121,665,160,85,20,61.9047619,80.95238095,105,jaune
+6611,Caissiers,Caissières,75,28,64.08386776,280165,61325,71165,12380,70.36327728,85.18163864,83545,jaune
+6621,Préposés de stations-service,,66,4,-45.2367688,4915,13035,820,2200,-45.69536424,27.15231788,3020,jaune
+6622,"Garnisseurs de tablettes, commis et préposés aux commandes dans les magasins",,69,13.25,-31.72744508,61220,118120,14605,31620,-36.80908599,31.595457,46225,jaune
+6623,Autre personnel assimilé des ventes,Autre personnel assimilé des ventes,65,3,8.492506612,18460,15570,6100,7930,-13.04347826,43.47826087,14030,jaune
+6711,"Serveurs au comptoir, aides de cuisine et personnel de soutien assimilé","Serveuses au comptoir, aides de cuisine et personnel de soutien assimilé",72.33333333,5.666666667,24.99967672,241665,145000,40090,29800,14.72313636,57.36156818,69890,jaune
+6721,"Personnel de soutien en services d'hébergement, de voyage et en services de montage d'installation",,85.5,18.5,-49.26739927,1385,4075,150,840,-69.6969697,15.15151515,990,jaune
+6722,"Opérateurs et préposés aux sports, aux loisirs et dans les parcs d'attractions",,78,31,-25.7151939,11685,19775,1540,3665,-40.82612872,29.58693564,5205,jaune
+6731,Préposés à l'entretien ménager et au nettoyage - travaux légers,Préposées à l'entretien ménager et au nettoyage - travaux légers,42,52,35.72979493,140650,66600,30175,24455,10.47043749,55.23521874,54630,jaune
+6732,Nettoyeurs spécialisés,,55,16,-68.48274943,5915,31620,1045,6840,-73.4939759,13.25301205,7885,jaune
+6733,Concierges et surintendants d'immeubles,,48,47,-51.22361616,49280,152785,5575,30665,-69.23289183,15.38355408,36240,jaune
+6741,Personnel de blanchisseries et d'établissements de nettoyage à sec et personnel assimilé,Personnel de blanchisseries et d'établissements de nettoyage à sec et personnel assimilé,53,55,48.05063291,14620,5130,2945,1685,27.21382289,63.60691145,4630,jaune
+6742,"Autre personnel de soutien en service, n.c.a.",,74.5,24.5,-23.27856747,10390,16695,2175,4520,-35.02613891,32.48693055,6695,jaune
+7201,"Entrepreneurs et contremaîtres des machinistes et du personnel des métiers du formage, du profilage et du montage des métaux et personnel assimilé",,71,5,-90.98124098,625,13235,275,2525,-80.35714286,9.821428571,2800,jaune
+7202,Entrepreneurs et contremaîtres en électricité et en télécommunications,,71,5,-82.39713775,1230,12745,475,2535,-68.43853821,15.7807309,3010,jaune
+7203,Entrepreneurs et contremaîtres en tuyauterie,,71,5,-89.8655636,245,4590,70,510,-75.86206897,12.06896552,580,jaune
+7204,Entrepreneurs et contremaîtres en charpenterie,,71,5,-93.89002037,300,9520,45,915,-90.625,4.6875,960,jaune
+7205,Entrepreneurs et contremaîtres des autres métiers de la construction et des services de réparation et d'installation,,74.5,7,-86.44329897,1315,18085,175,1825,-82.5,8.75,2000,jaune
+7231,Machinistes et vérificateurs d'usinage et d'outillage,,52,4,-91.8723176,1515,35765,605,11245,-89.78902954,5.105485232,11850,jaune
+7232,Outilleurs-ajusteurs,,57,0,-91.80101336,445,10410,145,1060,-75.93360996,12.03319502,1205,jaune
+7233,Tôliers,,67,10,-94.26485923,550,18630,120,4090,-94.29928741,2.850356295,4210,jaune
+7234,Chaudronniers,,69,15,-96.20403321,80,4135,0,535,-100,0,535,bleu
+7235,Assembleurs et ajusteurs de plaques et de charpentes métalliques,,60,6,-93.57142857,180,5420,60,765,-85.45454545,7.272727273,825,jaune
+7236,Monteurs de charpentes métalliques,,79,11.5,-94.52736318,385,13685,45,2575,-96.5648855,1.717557252,2620,jaune
+7237,Soudeurs et opérateurs de machines à souder et à braser,,46.66666667,0.3333333333,-91.25800782,3855,84340,800,18420,-91.67533819,4.162330905,19220,jaune
+7241,Électriciens (sauf électriciens industriels et de réseaux électriques),,75,11,-95.34150188,1920,80510,135,11960,-97.76767259,1.116163704,12095,jaune
+7242,Électriciens industriels,,74,9.5,-94.49860724,790,27930,60,3620,-96.73913043,1.630434783,3680,jaune
+7243,Électriciens de réseaux électriques,,75,11,-90.71661238,285,5855,105,1615,-87.79069767,6.104651163,1720,jaune
+7244,Monteurs de lignes électriques et de câbles,,73,10,-95.73612228,265,12165,95,2160,-91.57427938,4.21286031,2255,jaune
+7245,Monteurs de lignes et de câbles de télécommunications,,64,34,-91.21318023,440,9575,75,1315,-89.20863309,5.395683453,1390,jaune
+7246,Installateurs et réparateurs de matériel de télécommunications,,62,22,-84.26703104,2015,23600,575,7665,-86.04368932,6.97815534,8240,jaune
+7247,Techniciens en montage et en entretien d'installations de câblodistribution,,40,6,-90.56603774,75,1515,40,830,-90.8045977,4.597701149,870,jaune
+7251,Plombiers,,60,58,-96.27526686,820,43210,85,6935,-97.57834758,1.210826211,7020,jaune
+7252,"Tuyauteurs, monteurs d'appareils de chauffage et poseurs de gicleurs",,73,21,-96.04275642,435,21550,15,2915,-98.97610922,0.5119453925,2930,vert
+7253,Monteurs d'installations au gaz,,73,21,-92.83387622,220,5920,10,255,-92.45283019,3.773584906,265,jaune
+7271,Charpentiers-menuisiers,,55,0,-96.00493218,2430,119220,335,27175,-97.56452199,1.217739004,27510,jaune
+7272,Ébénistes,,55,0,-83.22487346,1160,12670,400,4020,-81.90045249,9.049773756,4420,jaune
+7281,Briqueteurs-maçons,,72.33333333,4,-97.421981,190,14550,0,4135,-100,0,4135,bleu
+7282,Finisseurs de béton,,86,5,-96.94072658,160,10300,35,1875,-96.33507853,1.832460733,1910,jaune
+7283,Carreleurs,,64,12,-90.31078611,265,5205,95,1495,-88.05031447,5.974842767,1590,jaune
+7284,"Plâtriers, poseurs et finisseurs de systèmes intérieurs et latteurs",,61,6,-94.11508282,675,22265,95,4190,-95.56592765,2.217036173,4285,jaune
+7291,Couvreurs et poseurs de bardeaux,,77,4,-96.57689403,340,19525,40,4455,-98.22024472,0.8898776418,4495,jaune
+7292,Vitriers,,69,18,-92.91521487,305,8305,60,1875,-93.79844961,3.100775194,1935,jaune
+7293,Calorifugeurs,,58,2,-87.42916023,610,9095,75,870,-84.12698413,7.936507937,945,jaune
+7294,Peintres et décorateurs (sauf décorateurs d'intérieur),,58,1,-70.85932086,4205,24655,680,4130,-71.72557173,14.13721414,4810,jaune
+7295,Poseurs de revêtements d'intérieur,,64.5,11,-91.1360799,355,7655,30,1055,-94.47004608,2.764976959,1085,jaune
+7301,Entrepreneurs et contremaîtres en mécanique,,62,6.5,-87.05555556,1165,16835,650,5520,-78.93030794,10.53484603,6170,jaune
+7302,Entrepreneurs et contremaîtres des équipes d'opérateurs d'équipement lourd,,71,5,-93.55608592,1080,32440,200,5065,-92.40265907,3.798670465,5265,jaune
+7303,Surveillants de l'imprimerie et du personnel assimilé,,65,1,-29.77941176,955,1765,365,535,-18.88888889,40.55555556,900,jaune
+7304,Surveillants des opérations du transport ferroviaire,,64,8,-76.26262626,235,1745,65,310,-65.33333333,17.33333333,375,jaune
+7305,Surveillants du transport routier et du transport en commun,,75.66666667,38.33333333,-58.98389095,1655,6415,230,1060,-64.34108527,17.82945736,1290,jaune
+7311,Mécaniciens de chantier et mécaniciens industriels,,74.5,22.5,-97.00235529,1050,69005,265,17965,-97.09270433,1.453647833,18230,jaune
+7312,Mécaniciens d'équipement lourd,,48,15,-97.95445248,375,36290,85,7120,-97.64052741,1.179736294,7205,jaune
+7313,"Mécaniciensen chaffage, réfrigération et climatisation",,61,17,-96.38087031,420,22790,40,4115,-98.0746089,0.9626955475,4155,jaune
+7314,Réparateurs de wagons,,65,3,-95.63492063,55,2465,15,370,-92.20779221,3.896103896,385,jaune
+7315,Mécaniciens et contrôleurs d'aéronefs,,54,4,-89.13922588,940,16370,300,4035,-86.15916955,6.920415225,4335,jaune
+7316,Ajusteurs de machines,,52,4,-84.87394958,180,2200,100,845,-78.83597884,10.58201058,945,jaune
+7318,Constructeurs et mécaniciens d'ascenseurs,,64,50,-98.08429119,50,5170,35,930,-92.74611399,3.626943005,965,jaune
+7321,"Mécaniciens et réparateurs de véhicules automobiles, de camions et d'autobus",,57,5.333333333,-95.57236623,2985,131850,540,30745,-96.54786639,1.726066805,31285,jaune
+7322,Débosseleurs et réparateurs de carrosserie,,48,0,-90.68144499,1135,23225,220,5070,-91.68241966,4.15879017,5290,jaune
+7331,Installateurs de brûleurs à l'huile et à combustibles solides,,66,15,-93.2038835,70,1990,25,555,-91.37931034,4.310344828,580,jaune
+7332,Réparateurs et préposés à l'entretien d'appareils,,67,12,-93.61702128,150,4550,55,1460,-92.73927393,3.630363036,1515,jaune
+7333,Électromécaniciens,,64.8,10.2,-93.70249729,290,8920,170,6150,-94.62025316,2.689873418,6320,jaune
+7334,"Mécaniciens de motocyclettes, de véhicules tout-terrain et personnel mécanicien assimilé",,43,0,-96.75456389,80,4850,10,1155,-98.2832618,0.8583690987,1165,jaune
+7335,Autres réparateurs de petits moteurs et de petits équipements,,53,3,-96.49122807,40,2240,0,485,-100,0,485,bleu
+7361,Mécaniciens de locomotive et de cour de triage,,50.5,8,-90.09009009,220,4220,30,690,-91.66666667,4.166666667,720,jaune
+7362,Chefs de train et serre-freins,,63,15,-87.33668342,315,4660,65,540,-78.51239669,10.74380165,605,jaune
+7371,Grutiers,,55,7.333333333,-96.31047685,265,14100,35,2160,-96.81093394,1.59453303,2195,jaune
+7372,"Foreurs et dynamiteurs de mines à ciel ouvert, de carrières et de chantiers de construction",,42,8,-97.98792757,25,2460,10,515,-96.19047619,1.904761905,525,jaune
+7373,Foreurs de puits d'eau,,42,8,-92.24806202,25,620,0,35,-100,0,35,bleu
+7381,Opérateurs de presses à imprimer,,42,0,-66.93418941,2575,13000,760,4095,-68.69207003,15.65396498,4855,jaune
+7384,"Autre personnel des métiers et personnel assimilé, n.c.a.",,62,10,-83.19587629,815,8885,205,2175,-82.77310924,8.613445378,2380,jaune
+7441,"Personnel d'installation, d'entretien et de réparation d'équipement résidentiel et commercial",,63,7.6,-89.70312918,1925,35465,295,6035,-90.6793049,4.660347551,6330,jaune
+7442,Personnel d'entretien des canalisations d'eau et de gaz,,69,44,-82.2,445,4555,45,290,-73.13432836,13.43283582,335,jaune
+7444,Fumigateurs et préposés au contrôle de la vermine,,47,26,-76.59259259,395,2980,80,600,-76.47058824,11.76470588,680,jaune
+7451,Débardeurs,,70,3,-81.5225425,625,6140,95,1190,-85.21400778,7.392996109,1285,jaune
+7452,Manutentionnaires,,57.66666667,4,-72.81892948,24870,158125,2430,29500,-84.77920451,7.610397745,31930,jaune
+7511,Conducteurs de camions de transport,,42,7,-92.78076923,9385,250615,2015,49215,-92.13351552,3.933242241,51230,jaune
+7512,Conducteurs d'autobus et opérateurs de métro et autres transports en commun,,76.33333333,52.33333333,-32.96286107,30460,60415,5915,14535,-42.15158924,28.92420538,20450,jaune
+7513,"Chauffeurs de taxi, chauffeurs de limousine et chauffeurs",,79,25,-82.92425839,2835,30370,360,4590,-85.45454545,7.272727273,4950,jaune
+7514,Chauffeurs-livreurs - services de livraison et de messagerie,,67,13,-83.62756953,6770,75930,1395,23925,-88.98104265,5.509478673,25320,jaune
+7521,Conducteurs d'équipement lourd (sauf les grues),,50.4,4.2,-91.9115065,3455,81975,220,11590,-96.27434378,1.862828112,11810,jaune
+7522,Conducteurs de machinerie d'entretien public et personnel assimilé,,49.5,44.5,-91.01123596,1040,22100,175,4025,-91.66666667,4.166666667,4200,jaune
+7531,Ouvriers de gares de triage et à l'entretien de la voie ferrée,,85,14,-94.41707718,170,5920,35,755,-91.13924051,4.430379747,790,jaune
+7532,Matelots de pont et matelots de salle des machines du transport par voies navigables,,69,19,-81.31487889,405,3930,70,710,-82.05128205,8.974358974,780,jaune
+7533,"Opérateurs de bateau à moteur, de bac à câble et personnel assimilé",,71.33333333,18.66666667,-69.527897,355,1975,25,315,-85.29411765,7.352941176,340,jaune
+7534,Agents de piste dans le transport aérien,,65,4,-77.1037182,1170,9050,125,1225,-81.48148148,9.259259259,1350,jaune
+7535,Autres préposés à la pose et à l'entretien des pièces mécaniques d'automobiles,,64.33333333,10.66666667,-93.95197154,510,16355,35,2065,-96.66666667,1.666666667,2100,jaune
+7611,Aides de soutien des métiers et manoeuvres en construction,,76,24,-86.30299941,12090,164445,1285,20720,-88.32083617,5.839581913,22005,jaune
+7612,Autres manoeuvres et aides de soutien de métiers,,68,15,-78.85131508,985,8330,160,1625,-82.07282913,8.963585434,1785,jaune
+7621,Manoeuvres à l'entretien des travaux publics,,31,63,-76.52743142,3765,28315,850,8735,-82.26395409,8.868022953,9585,jaune
+7622,Manoeuvres dans le transport ferroviaire et routier,,45,10,-81.64754953,440,4355,205,1650,-77.89757412,11.05121294,1855,jaune
+8211,Surveillants de l'exploitation forestière,,49,8.5,-82.58503401,320,3355,45,675,-87.5,6.25,720,jaune
+8221,Surveillants de l'exploitation des mines et des carrières,,71,5,-91.44385027,280,6265,40,1130,-93.16239316,3.418803419,1170,jaune
+8222,Entrepreneurs et surveillants du forage et des services reliés à l'extraction de pétrole et de gaz,,71,5,-89.07996561,635,10995,10,80,-77.77777778,11.11111111,90,jaune
+8231,"Mineurs d'extraction et de préparation, mines souterraines",,64.375,8.375,-95.008,390,15235,50,3210,-96.93251534,1.533742331,3260,jaune
+8232,Foreurs et personnel de mise à l'essai et des autres services reliés à l'extraction de pétrole et de gaz,,79,11,-90.52178076,495,9950,25,210,-78.72340426,10.63829787,235,jaune
+8241,Conducteurs de machines d'abattage d'arbres,,14,0,-96.10999329,145,7310,0,945,-100,0,945,bleu
+8252,"Entrepreneurs de services agricoles, surveillants d'exploitations agricoles et ouvriers spécialisés dans l'élevage",,50,18.66666667,-41.74757282,1950,4745,395,850,-36.54618474,31.72690763,1245,jaune
+8255,"Entrepreneurs et superviseurs des services de l'aménagement paysager, de l'entretien des terrains et de l'horticulture",,52,18.33333333,-66.90909091,1820,9180,320,1200,-57.89473684,21.05263158,1520,jaune
+8261,Capitaines et officiers de bateaux de pêche,,70,22,-89.85074627,85,1590,15,185,-85,7.5,200,jaune
+8262,Pêcheurs indépendants,,70,22,-70.23633678,2015,11525,85,615,-75.71428571,12.14285714,700,jaune
+8411,Personnel d'entretien et de soutien des mines souterraines,,80,4,-86.68831169,205,2875,75,1010,-86.17511521,6.912442396,1085,jaune
+8412,Personnel du forage et de l'entretien des puits de pétrole et de gaz et personnel assimilé,,87,0,-92.67080745,295,7755,10,195,-90.24390244,4.87804878,205,jaune
+8421,Opérateurs de scies à chaîne et d'engins de débardage,,7,1,-95.69506726,120,5455,20,755,-94.83870968,2.580645161,775,jaune
+8422,Ouvriers en sylviculture et en exploitation forestière,,67,17,-73.31334333,890,5780,255,1030,-60.31128405,19.84435798,1285,jaune
+8431,Ouvriers agricoles,,44,19.5,-41.51900402,22195,53710,3860,10815,-47.39352641,26.3032368,14675,jaune
+8432,Ouvriers de pépinières et de serres,Ouvrières de pépinières et de serres,39,1,20.40749261,9160,6055,960,815,8.169014085,54.08450704,1775,jaune
+8441,Matelots de pont sur les bateaux de pêche,,70,22,-70.03546099,845,4795,95,665,-75,12.5,760,jaune
+8442,Trappeurs et chasseurs,,17,67,-64.70588235,45,210,40,105,-44.82758621,27.5862069,145,jaune
+8611,Manoeuvres à la récolte,Manoeuvres à la récolte,24,1,15.32258065,3575,2625,215,245,-6.52173913,46.73913043,460,jaune
+8612,Manoeuvres en aménagement paysager et en entretien des terrains,,76,9,-66.94164375,16230,81960,1380,10855,-77.44176543,11.27911729,12235,jaune
+8613,Manoeuvres de l'aquaculture et de la mariculture,,64,38,-53.14861461,465,1520,25,45,-28.57142857,35.71428571,70,jaune
+8614,Manoeuvres des mines,,80,4,-75.54585153,420,3015,60,255,-61.9047619,19.04761905,315,jaune
+8615,"Manoeuvres de forage et d'entretien des puits de pétrole et de gaz, et personnel assimilé",,84.5,5,-84.44100979,755,8950,50,665,-86.01398601,6.993006993,715,jaune
+9211,Surveillants dans la transformation des métaux et des minerais,,65,1,-86.71009772,510,7165,125,2270,-89.56158664,5.219206681,2395,jaune
+9212,"Surveillants dans le raffinage du pétrole, dans le traitement du gaz et des produits chimiques et dans les services d'utilité publique",,65,1,-67.17584369,2310,11765,725,1805,-42.68774704,28.65612648,2530,jaune
+9213,Surveillants dans la transformation des aliments et des boissons,,65,1,-35.75525813,4200,8875,1170,2560,-37.26541555,31.36729223,3730,jaune
+9214,Surveillants dans la fabrication de produits en caoutchouc et en plastique,,65,1,-60.40703053,1070,4335,395,1400,-55.98885794,22.00557103,1795,jaune
+9215,Surveillants dans la transformation des produits forestiers,,65,1,-83.64485981,525,5895,205,2005,-81.4479638,9.2760181,2210,jaune
+9217,"Surveillants dans la transformation et la fabrication de produits textiles, de tissus, de fourrure et de cuir","Surveillantes dans la transformation et la fabrication de produits textiles, de tissus, de fourrure et de cuir",65,1,9.455587393,955,790,385,375,1.315789474,50.65789474,760,jaune
+9221,Surveillants dans la fabrication de véhicules automobiles,,65,1,-66.64568911,1325,6620,50,405,-78.02197802,10.98901099,455,jaune
+9222,Surveillants dans la fabrication de matériel électronique,,65,1,-50,440,1320,85,295,-55.26315789,22.36842105,380,jaune
+9223,Surveillants dans la fabrication d'appareils électriques,,65,1,-56.58914729,280,1010,85,270,-52.11267606,23.94366197,355,jaune
+9224,Surveillants dans la fabrication de meubles et d'accessoires,,65,1,-68.04511278,425,2235,205,840,-60.76555024,19.61722488,1045,jaune
+9226,Surveillants dans la fabrication d'autres produits métalliques et de pièces mécaniques,,65,1,-78.48911652,420,3485,175,1235,-75.17730496,12.41134752,1410,jaune
+9227,Surveillants dans la fabrication et le montage de produits divers,,65,1,-65.0879567,645,3050,260,970,-57.72357724,21.13821138,1230,jaune
+9231,Opérateurs de poste central de contrôle et de conduite de procédés industriels dans le traitement des métaux et des minerais,,43,2,-88.23529412,120,1920,15,200,-86.04651163,6.976744186,215,jaune
+9232,Opérateurs de salle de commande centrale et de conduite de procédés industriels dans le raffinage du pétrole et le traitement du gaz et des produits chimiques,,47.33333333,8.333333333,-82.27194492,1545,15885,215,1025,-65.32258065,17.33870968,1240,jaune
+9235,"Opérateurs au contrôle de la réduction en pâte des pâtes et papiers, de la fabrication du papier et du couchage",,47,7,-78.26086957,300,2460,50,705,-86.75496689,6.622516556,755,jaune
+9241,Mécaniciens de centrales et opérateurs de réseaux électriques,,55.625,5.875,-87.61303532,1815,27490,215,3595,-88.71391076,5.643044619,3810,jaune
+9243,Opérateurs d'installations du traitement de l'eau et des déchets,,50,27,-72.15686275,1775,10975,280,1765,-72.61613692,13.69193154,2045,jaune
+9411,Opérateurs de machines dans le traitement des métaux et des minerais,,43,2,-86.76844784,650,9175,220,3955,-89.46107784,5.269461078,4175,jaune
+9412,Ouvriers de fonderies,,65,6,-82.30563003,330,3400,135,1700,-85.28610354,7.356948229,1835,jaune
+9413,Opérateurs de machines à former et à finir le verre et coupeurs de verre,,63.25,7.25,-70.57057057,490,2840,215,795,-57.42574257,21.28712871,1010,jaune
+9414,"Opérateurs de machines dans le façonnage et la finition des produits en béton, en argile ou en pierre",,57.4,5.6,-91.20492524,250,5435,85,1500,-89.27444795,5.362776025,1585,jaune
+9415,Contrôleurs et essayeurs dans la transformation des métaux et des minerais,,65,4,-59.84990619,535,2130,155,530,-54.74452555,22.62773723,685,jaune
+9416,Opérateurs de machines à forger et à travailler les métaux,,55.3,4.9,-76.57068063,1790,13490,265,2240,-78.84231537,10.57884232,2505,jaune
+9417,Opérateurs de machines d'usinage,,50,0.5,-75.2293578,1350,9550,515,2535,-66.2295082,16.8852459,3050,jaune
+9418,Opérateurs de machines d'autres produits métalliques,,70,9,-70.07978723,1125,6395,320,1865,-70.70938215,14.64530892,2185,jaune
+9421,Opérateurs d'installations de traitement des produits chimiques,,57.5,11.5,-42.52169474,2815,6980,910,2400,-45.01510574,27.49244713,3310,jaune
+9422,Opérateurs de machines de traitement des matières plastiques,,56.46153846,4.384615385,-44.90608993,4840,12730,955,3240,-54.46960667,22.76519666,4195,jaune
+9423,Opérateurs de machines de transformation du caoutchouc et personnel assimilé,,54.75,6.25,-65.57591623,1315,6325,475,2025,-62,19,2500,jaune
+9431,Opérateurs de machines à scier dans les scieries,,57,6,-85.27084601,605,7610,105,2415,-91.66666667,4.166666667,2520,jaune
+9432,Opérateurs de machines dans les usines de pâte à papier,,48,5,-85.02202643,170,2100,75,845,-83.69565217,8.152173913,920,jaune
+9433,Opérateurs de machines dans la fabrication et la finition du papier,,61,3,-69.67840735,495,2770,140,1120,-77.77777778,11.11111111,1260,jaune
+9434,Autres opérateurs de machines dans la transformation du bois,,54,3.5,-74.66918715,670,4620,145,990,-74.44933921,12.7753304,1135,jaune
+9435,Opérateurs de machines à façonner le papier,,61,3,-59.2,1020,3980,300,1630,-68.9119171,15.54404145,1930,jaune
+9436,Classeurs de bois d'oeuvre et autres vérificateurs et classeurs dans la transformation du bois,,48,1,-68.27371695,510,2705,220,965,-62.86919831,18.56540084,1185,jaune
+9437,Opérateurs de machines à travailler le bois,,56,2.5,-71.70658683,945,5735,355,2035,-70.29288703,14.85355649,2390,jaune
+9441,"Opérateurs de machines et travailleurs de traitement des fibres et des fils textiles, du cuir et des peaux",,44.5,2,-14.02116402,1625,2155,690,920,-14.28571429,42.85714286,1610,jaune
+9442,"Tisseurs, tricoteurs et autres opérateurs de machines textiles","Tisseuses, tricoteuses et autres opératrices de machines textiles",44,4,12,1610,1265,385,490,-12,44,875,jaune
+9445,"Coupeurs de tissu, de fourrure et de cuir",,54,0,-21.92192192,650,1015,170,410,-41.37931034,29.31034483,580,jaune
+9446,Opérateurs de machines à coudre industrielles,Opératrices de machines à coudre industrielles,62,0,84.76992871,14255,1175,5600,530,82.70799347,91.35399674,6130,jaune
+9447,"Contrôleurs et trieurs dans la fabrication de produits textiles, de tissus, de fourrure et de cuir","Contrôleures et trieuses dans la fabrication de produits textiles, de tissus, de fourrure et de cuir",65,4,37.17026379,1430,655,615,335,29.47368421,64.73684211,950,jaune
+9461,Opérateurs de machines et de procédés industriels dans la transformation des aliments et des boissons,,53,7.25,-39.00984193,10225,23305,2695,6780,-43.11345646,28.44327177,9475,jaune
+9462,"Bouchers industriels, dépeceurs-découpeurs de viande, préparateurs de volaille et personnel assimilé",,77,3,-37.73123909,4460,9865,1155,3055,-45.13064133,27.43467933,4210,jaune
+9463,Ouvriers dans les usines de transformation du poisson et de fruits de mer,Ouvrières dans les usines de transformation du poisson et de fruits de mer,59,7.666666667,4.196816208,3600,3310,305,370,-9.62962963,45.18518519,675,jaune
+9465,Échantillonneurs et trieurs dans la transformation des aliments et des boissons,Échantillonneures et trieuses dans la transformation des aliments et des boissons,65,4,23.27935223,3045,1895,535,365,18.88888889,59.44444444,900,jaune
+9471,Opérateurs d'équipement d'impression sans plaque,,56,4,-32.8057554,2335,4615,590,1015,-26.47975078,36.76012461,1605,jaune
+9472,"Photograveurs-clicheurs, photograveurs-reporteurs et autre personnel de prépresse",,56,0,-41.65067179,760,1845,155,400,-44.14414414,27.92792793,555,jaune
+9473,Opérateurs de machines à relier et de finition,Opératrices de machines à relier et de finition,55,0,-9.324758842,2115,2550,595,510,7.692307692,53.84615385,1105,jaune
+9474,Développeurs de films et de photographies,Développeures de films et de photographies,58,41,28.22966507,1340,750,200,100,33.33333333,66.66666667,300,jaune
+9521,Monteurs d'aéronefs et contrôleurs de montage d'aéronefs,,67.33333333,9.333333333,-68.11808118,1080,5695,450,3070,-74.43181818,12.78409091,3520,jaune
+9522,"Assembleurs, contrôleurs et vérificateurs de véhicules automobiles",,67,2,-36.52412114,20855,44855,445,1595,-56.37254902,21.81372549,2040,jaune
+9523,"Assembleurs, monteurs, contrôleurs et vérificateurs de matériel électronique","Assembleuses, monteuses, contrôleures et vérificateurices de matériel électronique",61.33333333,2.333333333,0.4657351963,7550,7480,1760,2135,-9.627727856,45.18613607,3895,jaune
+9524,"Monteurs et contrôleurs dans la fabrication de matériel, d'appareils et d'accessoires électriques",,62,3.5,-43.48894349,2300,5840,560,1725,-50.98468271,24.50765864,2285,jaune
+9525,"Assembleurs, monteurs et contrôleurs dans la fabrication de transformateurs et de moteurs électriques industriels",,62,5.5,-66.90647482,345,1740,135,530,-59.39849624,20.30075188,665,jaune
+9526,Monteurs et contrôleurs de matériel mécanique,,67,2,-72.55079007,1520,9555,330,2360,-75.46468401,12.26765799,2690,jaune
+9527,Opérateurs de machines et contrôleurs dans la fabrication d'appareils électriques,,65,4,-44.64751958,530,1385,160,360,-38.46153846,30.76923077,520,jaune
+9531,Monteurs de bateaux et contrôleurs de montage de bateaux,,71,9.5,-81.15942029,130,1250,10,195,-90.24390244,4.87804878,205,jaune
+9532,Monteurs et contrôleurs de meubles et d'accessoires,,65,4,-59.60854093,2270,8970,705,3045,-62.4,18.8,3750,jaune
+9534,Finisseurs et restaurateurs de meubles,,54,2,-53.09090909,1290,4210,485,1055,-37.01298701,31.49350649,1540,jaune
+9535,"Assembleurs, finisseurs et contrôleurs de produits en plastique",,65,4,-14.21143847,4950,6590,970,1805,-30.09009009,34.95495495,2775,jaune
+9536,"Peintres, enduiseurs et opérateurs de procédés dans le finissage du métal - secteur industriel",,74,16,-71.61016949,2345,14175,430,3465,-77.92041078,11.03979461,3895,jaune
+9537,"Monteurs, finisseurs et contrôleurs de produits divers",,62.5,6.5,-38.03723282,6740,15015,1630,3660,-38.37429112,30.81285444,5290,jaune
+9611,Manoeuvres dans le traitement des métaux et des minerais,,54,1,-82.80394304,785,8345,250,2340,-80.69498069,9.652509653,2590,jaune
+9612,Manoeuvres en métallurgie,,54,1,-71.95622435,2050,12570,330,2410,-75.91240876,12.04379562,2740,jaune
+9613,Manoeuvres dans le traitement des produits chimiques et les services d'utilité publique,,54,1,-22.89416847,3570,5690,770,1295,-25.42372881,37.28813559,2065,jaune
+9614,Manoeuvres dans le traitement des pâtes et papiers et la transformation du bois,,54,1,-68.08326106,3680,19380,1195,7800,-73.42968316,13.28515842,8995,jaune
+9615,Manoeuvres dans la fabrication des produits en caoutchouc et en plastique,,54,1,-26.08173077,3075,5245,1030,1915,-30.05093379,34.97453311,2945,jaune
+9616,Manoeuvres des produits du textile,Manoeuvres des produits du textile,54,1,15.12605042,2055,1515,600,475,11.62790698,55.81395349,1075,jaune
+9617,Manoeuvres dans la transformation des aliments et des boissons,Manoeuvres dans la transformation des aliments et des boissons,54,1,2.72606383,38625,36575,8010,9755,-9.822685055,45.08865747,17765,jaune
+9618,Manoeuvres dans la transformation du poisson et des fruits de mer,,54,1,-1.06974754,5780,5905,585,735,-11.36363636,44.31818182,1320,jaune
+9619,"Autres manoeuvres des services de transformation, de fabrication et d'utilité publique",,68.5,2,-21.94274763,32585,50905,7125,11160,-22.06726825,38.96636587,18285,jaune
