@@ -1,0 +1,21 @@
+[{
+    "sex": "hommes",
+    "value": 15.5,
+    "year": 2017
+},
+{
+    "sex": "femmes",
+    "year": 2017,
+    "value": 31.9
+},
+{
+    "sex": "hommes",
+    "year": 2020,
+    "value": 21.7
+},
+{
+    "sex": "femmes",
+    "year": 2020,
+    "value": 31.1
+}
+]
